@@ -2,7 +2,7 @@
 This folder contains c++ and Matlab scripts that implement WTM maps for a given network and a given WTM threshold T. Please cite the following paper for any usage of this code:
 
 D. Taylor, F. Klimm, H. A. Harrington, M. Kramar, K. Mischaikow, M. A. Porter, and P. J. Mucha (2015) "Topological data analysis of contagion maps for examining spreading processes on networks", Nature Communications 6, 7723 
-
+http://www.nature.com/articles/ncomms8723
 
 The following scripts are included:
 
@@ -12,4 +12,4 @@ The following scripts are included:
 4. Example1.m - an example experiment in Matlab that demos how to use compute_WTM_map.m
 5. LinkList.tsv  - an edge list for a ring lattice, which is used by Example1.m
 
-If you have any questions about the code, please email Dane Taylor at dane.r.taylor@gmail.com.
+If you have any questions about the code, please email Dane Taylor at danet@buffalo.edu
